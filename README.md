@@ -4,7 +4,7 @@
 
 ## 🚀 تحميل البرنامج (Download)
 يمكنك تحميل أحدث نسخة من البرنامج مباشرة وتثبيتها على نظام Windows:
-👉 **[اضغط هنا لتحميل الإصدار الأخير (Smart Matcher Setup v1.0.0)](https://github.com/sma812020/Smart-Matcher/releases/latest)**
+👉 **[اضغط هنا لتحميل الإصدار الأخير (SmartMatcher_Setup_v1.0.0.exe.exe)](https://github.com/sma8120202024/SmartMatcher/releases/tag/SmartMatcher)**
 
 ## ✨ أبرز المميزات
 * **محرك مطابقة فائق السرعة:** معالجة آلاف السجلات في ثوانٍ بفضل بنية .NET 8 الحديثة.
